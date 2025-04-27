@@ -1,6 +1,5 @@
 # Create a new README file
 
-cat <<EOL > README.md
 # Gym & Fitness Club Management System
 
 ### Team #8
@@ -100,5 +99,3 @@ The system supports several essential operations:
 - **Automatic Data Updates:** Member cancellation triggers automatic removal of class bookings and stops billing.
 - **Equipment Maintenance Logs:** Maintenance updates are reflected in equipment availability.
 - **Secure Financial Tracking:** Prevents duplicate charges and securely stores membership payments.
-
-EOL
