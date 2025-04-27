@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Create a new README file
 
 cat <<EOL > README.md
